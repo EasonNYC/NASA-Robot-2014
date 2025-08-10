@@ -1,4 +1,4 @@
-R# NYU Team Atlas - NASA Lunar Mining Robot 2014
+# NYU Team Atlas - NASA Lunar Mining Robot 2014
 
 [![NASA Competition](https://img.shields.io/badge/NASA-Robotic%20Mining%20Competition-blue.svg)](http://www.nasa.gov/offices/education/centers/kennedy/technology/nasarmc.html)
 [![Arduino](https://img.shields.io/badge/Arduino-Mega-blue.svg)](https://www.arduino.cc/en/Main/ArduinoBoardMega)
@@ -8,6 +8,8 @@ R# NYU Team Atlas - NASA Lunar Mining Robot 2014
 
 ![Team Atlas Robot](https://img.shields.io/badge/Weight-26kg-green.svg)
 ![Award](https://img.shields.io/badge/Achievement-Innovation%20Award-gold.svg)
+
+![NASA Working](nasaworking.jpg)
 
 ## 🏆 Competition Overview
 
@@ -61,6 +63,8 @@ The NASA Robotic Mining Competition challenges university teams to design and bu
 
 ## 🎮 Control System
 
+![NASA Panel](NASApanel.png)
+
 ### Ground Station Setup
 - **Platform**: LabVIEW virtual instrument running on laptop
 - **Input**: Xbox 360 controller for intuitive operation
@@ -83,6 +87,8 @@ Our most innovative feature was the completely 3D printed wheel system:
 - **Integrated Mining**: Fins with openings collect regolith during reverse rotation
 - **Material Flow**: Regolith flows through wheel interior to central collection bin
 - **Scalability**: Overcame 3D printer size limitations through modular design
+
+![NASA Wheel](NASAwheel.jpg)
 
 ### Advanced Communication Protocol
 - **Robust Wireless**: WiFi with automatic failover and reconnection
@@ -179,14 +185,17 @@ As **Captain and Project Manager**, I led a diverse team of 13 undergraduate and
 
 ## 🎥 Media and Documentation
 
+![NASA Fox 35](nasafox35.png)
+
 ### Media Footage
+- [NASA EDGE Live Interview](https://www.youtube.com/embed/eIb3ltBdFcM?si=QFBy7Br5mgiclaKT&start=13) - Featured live on NASA EDGE during robotics competition
 - [NASA TV Interview](https://www.youtube.com/watch?v=hwmHyKBF8kE) - Post-competition interview at Kennedy Space Center
 - [Robot Demo Video](link) - Indoor mobility and teleop demonstration
 
 ### Publications
 - **NYU Engineering Website** - [Featured Article](https://engineering.nyu.edu/news/sophomores-take-upper-classes-nasa-lunar-robot-competition)
+- **NYU School Newspaper** - [Competition preview and team profile](https://easonnyc.github.io/portfolio/nyu_news.html)
 - **Systems Engineering Report** - Comprehensive technical documentation
-- **NYU School Newspaper** - Competition preview and team profile
 
 ### Team Recognition
 > *"Team Atlas has shifted its strategy toward 'building for the future,' focusing on recruiting the fresh talent of its underclassmen. This year's team consists entirely of sophomores, making Team Atlas one of the youngest teams who will compete at the NASA competition where teams made up of Seniors and Grad students is the norm."*
@@ -208,6 +217,8 @@ The technologies developed directly support NASA's exploration goals:
 - **Harsh Environment Operation** - Dust tolerance and reliability in extreme conditions
 
 ## 👥 Team Members
+
+![Team Photo](TeamPhoto2.jpg)
 
 **Team Atlas 2014 Roster:**
 - **Eason Smith** - Captain, Project Manager, Electrical/Software Lead
