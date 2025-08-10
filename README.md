@@ -182,7 +182,6 @@ As **Captain and Project Manager**, I led a diverse team of 13 undergraduate and
 ### Media Footage
 - [NASA TV Interview](https://www.youtube.com/watch?v=hwmHyKBF8kE) - Post-competition interview at Kennedy Space Center
 - [Robot Demo Video](link) - Indoor mobility and teleop demonstration
-- [Competition Run](link) - Official mining competition footage
 
 ### Publications
 - **NYU Engineering Website** - [Featured Article](https://engineering.nyu.edu/news/sophomores-take-upper-classes-nasa-lunar-robot-competition)
