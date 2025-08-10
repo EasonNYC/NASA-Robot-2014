@@ -237,7 +237,7 @@ The technologies developed directly support NASA's exploration goals:
 ## 📞 Contact Information
 
 **Project Lead:** Eason Smith  
-**Email:** [contact information]  
+**Email:** davideasonsmith@gmail.com  
 **LinkedIn:** [linkedin.com/in/easonsmith](https://linkedin.com/in/easonsmith)  
 
 ---
